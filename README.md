@@ -14,11 +14,11 @@ Une application simple de gestion de tâches développée avec **Laravel**.
 
 ## 🖼️ Aperçu
 
-![Aperçu de l'application](taskUp.png)
+![Aperçu de l'application](/taskUp.png)
 
 ## 📦 Installation
 
 1. Clone le projet :
    ```bash
-   git clone 
+   git clone https://github.com/Ibrahima96/Task_Up.git
    cd Task_Up
