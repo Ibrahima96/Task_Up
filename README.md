@@ -22,3 +22,4 @@ Une application simple de gestion de tâches développée avec **Laravel**.
    ```bash
    git clone https://github.com/Ibrahima96/Task_Up.git
    cd Task_Up
+   composer run dev
